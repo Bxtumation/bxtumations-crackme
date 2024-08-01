@@ -14,10 +14,10 @@ void www() {
         std::cout << "press any key to exit..";
         system("pause > nul");
     }else {
-		konsolpatlatici31();
+	konsolpatlatici31();
         std::cout << "nice try xd\n";
-		std::cout << "press any key to exit..";
-		system("pause > nul");
+	std::cout << "press any key to exit..";
+	system("pause > nul");
         std::exit(0);
     }
 }
@@ -34,7 +34,7 @@ std::string printfln33(const std::string& input, int mucize_doktor) {
 }
 void print(const std::string& str){std::cout << str;}
 int main() {
-	SetConsoleTitleA("bxtumations crackme");
+    SetConsoleTitleA("bxtumations crackme");
     print("please enter the key:\n");
     std::string inp;
     std::string messi333333 = "331";
@@ -44,9 +44,9 @@ int main() {
         std::cin >> inp;
         if (inp == messi3333333) {zz=true;break;
         } else {
-			konsolpatlatici31();
+	    konsolpatlatici31();
             print("wrong key!!");
-			print("\ntry again :))\n");
+	    print("\ntry again :))\n");
         }
 	}
 	www();
