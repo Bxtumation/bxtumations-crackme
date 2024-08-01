@@ -1,3 +1,7 @@
 # Download the crackme:
 
-[**Github download**](https://github.com/Bxtumation/bxtumations-crackme/raw/main/bxtumations_crackme.exe)
+[**Download**](https://github.com/Bxtumation/bxtumations-crackme/raw/main/bxtumations_crackme.exe)
+
+# You can also download the source:
+
+[**Download (source)**](https://github.com/Bxtumation/bxtumations-crackme/raw/main/src/sourcecode.cpp)
